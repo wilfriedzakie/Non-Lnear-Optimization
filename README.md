@@ -15,5 +15,5 @@ The algorithms studied are listed below:
 - Quasi Newton algorithm
 - Quasi-Newton algorithm using Wolf algorithm
 
-The report file (report.pdf) gives comparison of the performance of each algorithm to optimize the Rosenbrock and
+The report file ([report.pdf](https://github.com/wilfriedzakie/Non-Lnear-Optimization/blob/master/report.pdf)) gives comparison of the performance of each algorithm to optimize the Rosenbrock and
 Himmelblau functions
